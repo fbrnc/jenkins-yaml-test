@@ -1,5 +1,5 @@
 builder:
   kind: !shell
-  command: echo "Hello World"
-
+  command: |
+    echo "Hello World"
     echo "HELLOWWW"
